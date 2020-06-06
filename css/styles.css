@@ -82,6 +82,7 @@ a {
   border: none;
   background-color: rgba(26, 25, 21, 0);
   cursor: pointer;
+  outline: none;
 }
 
 .promo-button:hover,
@@ -129,6 +130,7 @@ a {
   border: none;
   background-color: #ff4e50;
   cursor: pointer;
+  outline: none;
 }
 
 .partners {
@@ -237,6 +239,7 @@ a {
   background-color: #ffffff;
   border: 2px solid #ff4e50;
   cursor: pointer;
+  outline: none;
 }
 
 @media (max-width: 320px) {
