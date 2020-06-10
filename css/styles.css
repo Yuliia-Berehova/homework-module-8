@@ -218,7 +218,7 @@ a {
 }
 
 .partners-list-item-description {
-  font-weight: var(--secondary-font);
+  font-family: var(--secondary-font);
   font-weight: 300;
   color: #666666;
   text-align: center;
